@@ -17,79 +17,8 @@ navbar-links:
   Blog: "blog"
   Facebook: "http://www.facebook.com/panbong"
   GitHub: "https://github.com/panbong"
-  
-assets
-Resize images
-12 months ago
-blog
-Test multiple blogs on one site-rev3
-9 months ago
-assets
-Resize images
-12 months ago
-assets
-Resize images
-12 months ago
-blog
-Test multiple blogs on one site-rev3
-9 months ago
-docs
-Inital commit
-12 months ago
-project
-Update 2020-06-26-project02.md
-9 months ago
-.gitattributes
-Inital commit
-12 months ago
-assets
-Resize images
-12 months ago
-blog
-Test multiple blogs on one site-rev3
-9 months ago
-docs
-Inital commit
-12 months ago
-project
-Update 2020-06-26-project02.md
-9 months ago
-.gitattributes
-Inital commit
-12 months ago
-.gitignore
-Inital commit
 
-.gitignore
-Inital commit
-
-blog
-Test multiple blogs on one site-rev3
-9 months ago
-docs
-Inital commit
-12 months ago
-project
-Update 2020-06-26-project02.md
-9 months ago
-.gitattributes
-Inital commit
-12 months ago
-.gitignore
-Inital commit
-
-docs
-Inital commit
-12 months ago
-project
-Update 2020-06-26-project02.md
-9 months ago
-.gitattributes
-Inital commit
-12 months ago
-.gitignore
-Inital commit
-Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+#Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
