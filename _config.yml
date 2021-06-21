@@ -15,7 +15,7 @@ navbar-links:
   Career: "career"
   Publication: "publication"
   Blog: "blog"
-  Facebook: "https://www.facebook.com/panbong"
+  Facebook: "http://www.facebook.com/panbong"
   GitHub: "https://github.com/panbong"
   
 assets
@@ -93,13 +93,13 @@ Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/seokho-square-2.jpg"
+avatar: "/assets/img/panbong.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
+title-img: "/assets/soc-lab.jpg"
 
 
 # --- Footer options --- #
