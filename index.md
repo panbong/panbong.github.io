@@ -2,7 +2,7 @@
 layout: page
 title: Professor in the Dept. of Electronics Eng.
 subtitle: 
-cover-img: /assets/img/soc-lab.jpg
+#cover-img: /assets/img/soc-lab.jpg
 ---
 
 <br/>
@@ -14,7 +14,7 @@ Professor in the Department of Electronics Engineering, Changwon National Univer
 ## Contact
 
 ```
-Affiliation: SoC, Digital System, Machine Learning
+Areas: SoC, Digital System, Machine Learning
 Laboratory, SoC Lab.
 Office: 20 CWNU Rd., Uichang-Gu, Changwon, South Kyungsang, Korea
 Email: pha@changwon.ac.kr or panbongha@gmail.com
