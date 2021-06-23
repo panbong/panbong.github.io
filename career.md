@@ -20,9 +20,6 @@ title: Research Career
 ### Seoul National University (SNU)
 #### Ph.D. Student, 1983 to 1993
 
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
 ### Seoul National University (SNU)
 #### Master Student, 1981 to 1983
 
