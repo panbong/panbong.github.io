@@ -2,6 +2,6 @@
 
 layout: category
 
-title: Machine Learning by PyTorch
+title: ml_py
 
 ---
