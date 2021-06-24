@@ -15,10 +15,12 @@ title: Publication
 - "A Study on the Design of a Beta Ray Sensor for True RandomNumber Generators", KIIECT, vol. 12, no. 6, pp. 619-628, 2020.
 - "Design of a Large-Density MTP IP", IKEEE, vol. 24, no. 1, pp. 161-169, 2020.
 - "Design of MTP Memory IP Using Vertical PIP Capacitor", KIIECT, vo. 13, no. 1, pp. 48-57, 2020.
-- "Design of PMOS-Diode Type eFuse OTP Memory IP",KIIECT, vo. 13, no. 1, pp. 64-71, 2020.
+- "Design of PMOS-Diode Type eFuse OTP Memory IP", KIIECT, vo. 13, no. 1, pp. 64-71, 2020.
 
 ### Conference Papers
 
+- "Design of eFuse OTP Memories of Various Sizes", KIIECT, vol. 14, no. 1, pp. 100-102, 2021.
+- "Design of SRAM IP", KSDT, p. 248, 2021.
 - "Design of Boosted Voltage Generator for Antifuse OTP Memories", KIEE, vol. 9, no. 1, pp. 68-69, 2021.
 - "Design of Pulse Shaper for Beta Ray Sensors", KIIECT, vol. 9, no. 1, pp. 70-71, 2020.
 - "Design of Voltage-Down Converter IP for SoCs", KIIECT, vol. 8, no. 1, pp. 90-92, 2020.
