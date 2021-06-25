@@ -1,8 +1,10 @@
+---
 layout: post
 title: How to install PyTorch on the Ubuntu 20.04
 comments: true
 categories: [ml_py]
 tags: Machine Learning by PyTorch
+---
 
 ### How to install and set up PyTorch
 
