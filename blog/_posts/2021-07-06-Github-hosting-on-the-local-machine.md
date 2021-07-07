@@ -1,8 +1,10 @@
+---
 layout: post
-title: How to install PyTorch on the Ubuntu 20.04
+title: How to set up a Github host on the local machine.
 comments: true
 categories: [ml_py]
 tags: Github, host, local machine
+---
 
 ### How to set up a Github host on the local machine.
 
@@ -27,6 +29,7 @@ gem install jekyll bundler
 ```
 gem install jekyll bundler
 ```
+
 - Create default Jekyll site
 
 ```
@@ -34,5 +37,22 @@ jekyll new username.github.io
 cd username.github.io
 bundle install
 bundle exec jekyll serve
+
 ```
+
+- or download the Github home pages to your local machine if you have the Github site already.
+
+```
+
+git clone https://github.com/username/username.github.io .
+```
+
 - Check whether the server is operating on http://localhost:4000.
+
+- Upload updated files to your Github site.
+
+```
+git add changed files
+git commit -m "describe what is changed"
+git push
+```
