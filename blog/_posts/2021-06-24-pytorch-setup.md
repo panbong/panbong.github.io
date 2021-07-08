@@ -53,6 +53,7 @@ python -m ipykernel install --user --name ml_py38 --display-name "python 3.8 (py
 ```
 
 - Execute Jupyter Notebook
+
 ```
 jupyter notebook
 ```
