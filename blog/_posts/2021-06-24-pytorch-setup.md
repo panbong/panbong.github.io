@@ -35,6 +35,7 @@ conda install nb_conda
 
 - Install PyTorch, TorchVision, and cuda-toolkit
 
+
 ```
 conda install pytorch torchvision cudatoolkit=11.2 -c pytorch
 ```
