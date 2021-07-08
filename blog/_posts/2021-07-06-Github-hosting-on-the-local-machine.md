@@ -43,7 +43,6 @@ bundle exec jekyll serve
 - or download the Github home pages to your local machine if you have the Github site already.
 
 ```
-
 git clone https://github.com/username/username.github.io .
 ```
 
