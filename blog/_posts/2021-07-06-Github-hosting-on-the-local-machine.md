@@ -1,6 +1,9 @@
 ---
 layout: post
 title: How to set up a Github host on the local machine.
+subtitle: Also see how to set up Github.
+gh-repo: panbong/panbong.github.io
+gh-badge: [star, fork, follow]
 comments: true
 categories: [ml_py]
 tags: Github, host, local machine
