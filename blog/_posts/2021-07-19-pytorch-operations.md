@@ -4,7 +4,7 @@ title: Useful operators used in Pytorch
 subtitle: Also see the Pytorch documentation
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
-tags: [Pytorch, operators
+tags: [Pytorch, operators]
 categories: [ml_py]
 comments: true
 ---
