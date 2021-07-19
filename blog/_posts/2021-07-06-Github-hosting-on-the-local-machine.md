@@ -5,7 +5,7 @@ subtitle: Also see how to set up Github.
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
 comments: true
-categories: [ml_py]
+categories: [github]
 tags: Github, host, local machine
 ---
 
@@ -39,7 +39,7 @@ gem install jekyll bundler
 jekyll new username.github.io
 cd username.github.io
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --live reload
 
 ```
 

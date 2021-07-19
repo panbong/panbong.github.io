@@ -5,6 +5,7 @@ subtitle: GitHub로 10분 만에 개인 웹사이트 및 블로그 만들기
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
 tags: [Website, Blog, GitHub, Guide, How to, Seokho Son, Open source]
+categories: [github]
 comments: true
 ---
 

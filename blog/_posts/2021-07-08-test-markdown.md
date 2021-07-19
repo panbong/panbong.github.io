@@ -5,6 +5,7 @@ subtitle: Also see makdown cheat sheets on the web.
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
+categories: [github]
 comments: true
 ---
 
