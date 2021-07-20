@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful operatios you must know to begin Pytorch
+title: Useful operators you must know to begin Pytorch
 subtitle: Also see Pytorch documentation.
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
