@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Professor
-subtitle: Depatment of Electronics Engineering, Changwon National University.
-#cover-img: /assets/img/soc-lab.jpg
+subtitle: Depatment of Electronics Engineering, <br />
+Changwon National University.
+cover-img: /assets/img/soc-lab.jpg
 ---
 
 <br/>
 
 ## About me
 
-Professor in the Department of Electronics Engineering, <br\>
+Professor in the Department of Electronics Engineering, <br/>
 Changwon National University, Korea.
 
 ## Contact
