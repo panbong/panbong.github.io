@@ -15,7 +15,6 @@ title: Publication
 - "A Study on the Design of a Beta Ray Sensor for True RandomNumber Generators", KIIECT, vol. 12, no. 6, pp. 619-628, 2020.
 - "Design of a Large-Density MTP IP", IKEEE, vol. 24, no. 1, pp. 161-169, 2020.
 - "Design of MTP Memory IP Using Vertical PIP Capacitor", KIIECT, vol. 13, no. 1, pp. 48-57, 2020.
-- "Design of PMOS-Diode Type eFuse OTP Memory IP", KIIECT, vol. 13, no. 1, pp. 64-71, 2020.
 
 ### Conference Papers
 
