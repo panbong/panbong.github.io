@@ -1,15 +1,15 @@
 ---
 layout: post
-title: From Pytorch to Pytorch-Lightning
-subtitle: Also see Pytorch
+title: From PyTorch to PyTorch-Lightning
+subtitle: Also see PyTorch
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
 comments: true
 categories: [ml_py]
-tags: Machine Learning, Pytorch, Pytorch-Lightning, Ubuntu
+tags: Machine Learning, PyTorch, PyTorch-Lightning, Ubuntu
 ---
 
-## Pytorch-Lightning
+## PyTorch-Lightning
 
 ### Lightning makes coding complex networks simple.
 
@@ -31,7 +31,7 @@ tags: Machine Learning, Pytorch, Pytorch-Lightning, Ubuntu
 - Use Grid to seamlessly orchestrate training in the cloud and manage artifacts like checkpoints and logs - all from your laptop without changing a line of code.
 
 
-### To install Pytorch-lightning
+### To install PyTorch-Lightning
 
 - Go to your virtual environment
 - Execute a following cli command (don't use `pip2` or `pip3`)
@@ -40,7 +40,7 @@ tags: Machine Learning, Pytorch, Pytorch-Lightning, Ubuntu
 pip install pytorch-lightning
 ```
 
-- Insert `import pytorch-lightning as pl` in your python code
+- Insert `import pytorch_lightning as pl` in your python code
 
 
 ### To see tensorboard
@@ -53,7 +53,7 @@ tensorboard --logdir=./runs
 
 - Then execute your web browser and enter an url of `http://localhost:6006` (the default port # is 6006)
 
-### An example of Pytorch-lightning code
+### An example of PyTorch-Lightning code
 
 ```
 import torch
