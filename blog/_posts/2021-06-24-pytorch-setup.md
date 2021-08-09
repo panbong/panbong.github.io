@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to install PyTorch on the Ubuntu 20.04
+title: How to install PyTorch and CUDA toolkits on the Ubuntu 20.04
 subtitle: Also see Ubuntu.
 gh-repo: panbong/panbong.github.io
 gh-badge: [star, fork, follow]
 comments: true
 categories: [ml_py]
-tags: Machine Learning, PyTorch, Ubuntu
+tags: Machine Learning, PyTorch, CUDA, Ubuntu
 ---
 
 ### How to install and set up PyTorch
