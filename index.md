@@ -10,6 +10,8 @@ cover-img: /assets/img/soc-lab.jpg
 
 ## About me
 
+### Panbong Ha
+
 Professor in the Department of Electronics Engineering, <br/>
 Changwon National University, Korea.
 
