@@ -9,8 +9,8 @@ title: Publication
 
 ### Journal Papers
 
-- "A Study on the Design of a Beta Ray Sensor Reducing Digital Switching Noise", KIIECT, vol. 13, n0. 5, pp. 403-411, 2021
-- "Design of Gate Driver Chip for Ionizer Modules with Fault Detection Function", KIIECT, vol. 24, no. 1, pp. 132-139, 2020.
+- "A Study on the Design of a Beta Ray Sensor Reducing Digital Switching Noise", KIIECT, vol. 13, no. 5, pp. 403-411, 2020
+- "Design of Gate Driver Chip for Ionizer Modules with Fault Detection Function", IKEEE, vol. 24, no. 1, pp. 132-139, 2020.
 - "Design of PMOS-Diode Type eFuse OTP Memory IP", KIIECT, vol. 13, no. 1, pp. 64-71, 2020.
 - "A Study on the Design of a Beta Ray Sensor for True RandomNumber Generators", KIIECT, vol. 12, no. 6, pp. 619-628, 2020.
 - "Design of a Large-Density MTP IP", IKEEE, vol. 24, no. 1, pp. 161-169, 2020.
