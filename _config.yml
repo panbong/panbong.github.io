@@ -108,7 +108,7 @@ footer-link-col: "#404040"
 google_analytics: "G-RFBYJK6XVM"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-ML7T49Z"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -160,7 +160,7 @@ title-separator: "-"
 date_format: "%B %-d, %Y"
 
 # Facebook App ID
-#fb_app_id: ""
+fb_app_id: "panbong"
 
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
