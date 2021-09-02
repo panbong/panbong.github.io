@@ -9,6 +9,7 @@ title: Publication
 
 ### Journal Papers
 
+- "Design of Single-Power Power CMOS Beta Ray Sensor Reducing Capacitive Coupling Noise", KIIECT, vol. 14, no. 4, 338-347, 2021.
 - "A Study on the Design of a Beta Ray Sensor Reducing Digital Switching Noise", KIIECT, vol. 13, no. 5, pp. 403-411, 2020
 - "Design of Gate Driver Chip for Ionizer Modules with Fault Detection Function", IKEEE, vol. 24, no. 1, pp. 132-139, 2020.
 - "Design of PMOS-Diode Type eFuse OTP Memory IP", KIIECT, vol. 13, no. 1, pp. 64-71, 2020.
