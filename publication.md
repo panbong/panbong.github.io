@@ -19,7 +19,7 @@ title: Publication
 
 ### Conference Papers
 
-- "Design of an MTP Cell Based on a 0.18um BCD Process", KIIECT, vol. 14, no. 2, pp. i84-2, 2021.
+- "Design of an MTP Cell Based on a 0.18um BCD Process", KIIECT, vol. 14, no. 2, pp. 84-86, 2021.
 - "Design of Boosted Voltage Generator for Antifuse OTP Memories", KIEE, vol. 9, no. 1, pp. 68-69, 2021.
 - "Design of SRAM IP", KSDT, p. 248, 2021.
 - "Design of Boosted Voltage Generator for Antifuse OTP Memories", KIEE, vol. 9, no. 1, pp. 68-69, 2021.
